@@ -1,0 +1,14 @@
+D:\CGroupProjects\CSharp_Basics\CastingConverting\bin\Debug\net9.0\CastingConverting.exe
+D:\CGroupProjects\CSharp_Basics\CastingConverting\bin\Debug\net9.0\CastingConverting.deps.json
+D:\CGroupProjects\CSharp_Basics\CastingConverting\bin\Debug\net9.0\CastingConverting.runtimeconfig.json
+D:\CGroupProjects\CSharp_Basics\CastingConverting\bin\Debug\net9.0\CastingConverting.dll
+D:\CGroupProjects\CSharp_Basics\CastingConverting\bin\Debug\net9.0\CastingConverting.pdb
+D:\CGroupProjects\CSharp_Basics\CastingConverting\obj\Debug\net9.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+D:\CGroupProjects\CSharp_Basics\CastingConverting\obj\Debug\net9.0\CastingConverting.AssemblyInfoInputs.cache
+D:\CGroupProjects\CSharp_Basics\CastingConverting\obj\Debug\net9.0\CastingConverting.AssemblyInfo.cs
+D:\CGroupProjects\CSharp_Basics\CastingConverting\obj\Debug\net9.0\CastingConverting.csproj.CoreCompileInputs.cache
+D:\CGroupProjects\CSharp_Basics\CastingConverting\obj\Debug\net9.0\CastingConverting.dll
+D:\CGroupProjects\CSharp_Basics\CastingConverting\obj\Debug\net9.0\refint\CastingConverting.dll
+D:\CGroupProjects\CSharp_Basics\CastingConverting\obj\Debug\net9.0\CastingConverting.pdb
+D:\CGroupProjects\CSharp_Basics\CastingConverting\obj\Debug\net9.0\CastingConverting.genruntimeconfig.cache
+D:\CGroupProjects\CSharp_Basics\CastingConverting\obj\Debug\net9.0\ref\CastingConverting.dll
