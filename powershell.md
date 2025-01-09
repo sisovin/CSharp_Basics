@@ -100,6 +100,14 @@ PS D:\CGroupProjects\CSharp_Basics> dotnet run --project Inheritance
 PS D:\CGroupProjects\CSharp_Basics> ls ./Inheritance/bin/Debug/net9.0/
 PS D:\CGroupProjects\CSharp_Basics> ./Inheritance/bin/Debug/net9.0/Inheritance.exe
 
+PS D:\CGroupProjects\CSharp_Basics> dotnet new console -o AbstractClassesMethods
+PS D:\CGroupProjects\CSharp_Basics> dotnet run --project AbstractClassesMethods 
+PS D:\CGroupProjects\CSharp_Basics> ls ./AbstractClassesMethods/bin/Debug/net9.0/
+PS D:\CGroupProjects\CSharp_Basics> ./AbstractClassesMethods/bin/Debug/net9.0/AbstractClassesMethods.exe
 
+PS D:\CGroupProjects\CSharp_Basics> dotnet new console -o InterfaceInheritance
+PS D:\CGroupProjects\CSharp_Basics> dotnet run --project InterfaceInheritance 
+PS D:\CGroupProjects\CSharp_Basics> ls ./InterfaceInheritance/bin/Debug/net9.0/
+PS D:\CGroupProjects\CSharp_Basics> ./InterfaceInheritance/bin/Debug/net9.0/InterfaceInheritance.exe
 
 ```
