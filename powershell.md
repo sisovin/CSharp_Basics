@@ -55,6 +55,50 @@ PS D:\CGroupProjects\CSharp_Basics> dotnet run --project Methods
 PS D:\CGroupProjects\CSharp_Basics> ls ./Methods/bin/Debug/net9.0/
 PS D:\CGroupProjects\CSharp_Basics> ./Methods/bin/Debug/net9.0/Methods.exe
 
+PS D:\CGroupProjects\CSharp_Basics> dotnet new console -o IfStatements
+PS D:\CGroupProjects\CSharp_Basics> dotnet run --project IfStatements
+PS D:\CGroupProjects\CSharp_Basics> ls ./IfStatements/bin/Debug/net9.0/
+PS D:\CGroupProjects\CSharp_Basics> ./IfStatements/bin/Debug/net9.0/IfStatements.exe
+
+PS D:\CGroupProjects\CSharp_Basics> dotnet new console -o SwitchStatements
+PS D:\CGroupProjects\CSharp_Basics> dotnet run --project SwitchStatements
+PS D:\CGroupProjects\CSharp_Basics> ls ./SwitchStatements/bin/Debug/net9.0/
+PS D:\CGroupProjects\CSharp_Basics> ./SwitchStatements/bin/Debug/net9.0/SwitchStatements.exe
+
+PS D:\CGroupProjects\CSharp_Basics> dotnet new console -o WhileLoops 
+PS D:\CGroupProjects\CSharp_Basics> dotnet run --project WhileLoops
+PS D:\CGroupProjects\CSharp_Basics> ls ./WhileLoops/bin/Debug/net9.0/
+PS D:\CGroupProjects\CSharp_Basics> ./WhileLoops/bin/Debug/net9.0/WhileLoops.exe
+
+PS D:\CGroupProjects\CSharp_Basics> dotnet new console -o ForLoops
+PS D:\CGroupProjects\CSharp_Basics> dotnet run --project ForLoops
+PS D:\CGroupProjects\CSharp_Basics> ls ./ForLoops/bin/Debug/net9.0/
+PS D:\CGroupProjects\CSharp_Basics> ./ForLoops/bin/Debug/net9.0/ForLoops.exe
+
+PS D:\CGroupProjects\CSharp_Basics> dotnet new console -o ExceptionHandler
+PS D:\CGroupProjects\CSharp_Basics> dotnet run --project ExceptionHandler
+PS D:\CGroupProjects\CSharp_Basics> ls ./ExceptionHandler/bin/Debug/net9.0/
+PS D:\CGroupProjects\CSharp_Basics> ./ExceptionHandler/bin/Debug/net9.0/ExceptionHandler.exe
+
+PS D:\CGroupProjects\CSharp_Basics> dotnet new console -o ClassesObjects
+PS D:\CGroupProjects\CSharp_Basics> dotnet run --project ClassesObjects
+PS D:\CGroupProjects\CSharp_Basics> ls ./ClassesObjects/bin/Debug/net9.0/
+PS D:\CGroupProjects\CSharp_Basics> ./ClassesObjects/bin/Debug/net9.0/ClassesObjects.exe
+
+PS D:\CGroupProjects\CSharp_Basics> dotnet new console -o Constructors
+PS D:\CGroupProjects\CSharp_Basics> dotnet run --project Constructors
+PS D:\CGroupProjects\CSharp_Basics> ls ./Constructors/bin/Debug/net9.0/ 
+PS D:\CGroupProjects\CSharp_Basics> ./Constructors/bin/Debug/net9.0/Constructors.exe
+
+PS D:\CGroupProjects\CSharp_Basics> dotnet new console -o GettersSetters
+PS D:\CGroupProjects\CSharp_Basics> dotnet run --project GettersSetters
+PS D:\CGroupProjects\CSharp_Basics> ls ./GettersSetters/bin/Debug/net9.0/
+PS D:\CGroupProjects\CSharp_Basics> ./GettersSetters/bin/Debug/net9.0/GettersSetters.exe
+
+PS D:\CGroupProjects\CSharp_Basics> dotnet new console -o Inheritance 
+PS D:\CGroupProjects\CSharp_Basics> dotnet run --project Inheritance
+PS D:\CGroupProjects\CSharp_Basics> ls ./Inheritance/bin/Debug/net9.0/
+PS D:\CGroupProjects\CSharp_Basics> ./Inheritance/bin/Debug/net9.0/Inheritance.exe
 
 
 
