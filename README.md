@@ -101,6 +101,12 @@ These are the following steps using `dotnet run`:
   ls D:/CGroupProjects/CSharp_Basics/Printing/bin/Debug/net9.0/
 ```
 
+7. Run the executable directly from the output directory:
+
+```sh
+  D:\CGroupProjects\CSharp_Basics> ./Printing/bin/Debug/net9.0/Printing.exe
+```
+
 This will compile and run your `hello.cs` (now `Program.cs`) file, and you should see the output:
 
 ```
